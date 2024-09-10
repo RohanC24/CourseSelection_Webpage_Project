@@ -1,0 +1,11 @@
+.form-control{
+    border-color: cadetblue;
+}
+
+body {
+    background-image: url('img2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* This keeps the image fixed while scrolling */
+}
